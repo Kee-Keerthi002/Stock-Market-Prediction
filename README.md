@@ -21,7 +21,7 @@ To perform stock market prediction analysis using Python, you will need to have 
 * Python 3
 * NumPy
 * Pandas
-* matplotlib
+* Matplotlib
 * Scikit-learn
 * Tensorflow
 * keras 
